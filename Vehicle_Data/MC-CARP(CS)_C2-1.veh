@@ -1,0 +1,81 @@
+NumberVehicleTypes:	4
+-------------------------
+VehicleType:		1
+NumberVehicles		5	
+NumberCompartments	2
+CompartmentCapacities	7400	9400
+NumberCompression	9
+General_Organic		3
+General			3
+Organic			1
+Paper			3
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		3
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		2
+NumberVehicles		5	
+NumberCompartments	2
+CompartmentCapacities	7400	9400
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		3
+NumberVehicles		10	
+NumberCompartments	2
+CompartmentCapacities	4000	8000
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		4
+NumberVehicles		15	
+NumberCompartments	1
+CompartmentCapacities	26100
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000

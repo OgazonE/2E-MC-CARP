@@ -1,0 +1,121 @@
+NumberVehicleTypes:	6
+-------------------------
+VehicleType:		1
+NumberVehicles		20	
+NumberCompartments	2
+CompartmentCapacities	12500	9300
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		2
+NumberVehicles		20	
+NumberCompartments	2
+CompartmentCapacities	8400	8400
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		3
+NumberVehicles		20	
+NumberCompartments	3
+CompartmentCapacities	6000	5400	5400
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		4
+NumberVehicles		20	
+NumberCompartments	2
+CompartmentCapacities	6000	6000
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		5
+NumberVehicles		20	
+NumberCompartments	3
+CompartmentCapacities	4000	5000	3000
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
+-------------------------
+VehicleType:		6
+NumberVehicles		20	
+NumberCompartments	1
+CompartmentCapacities	12000
+NumberCompression	9
+General_Organic		5
+General			5
+Organic			1
+Paper			4
+Plastic			3
+Glass			1
+Metal			3
+Cardboard		4
+Glass_Metal_Plastic	2
+TravelSpeed		1000
+TimeEmptyPerBin		0
+TimeUnload		0
+TimeDurationLimit	1000
+NumberBinsLimit		1000
