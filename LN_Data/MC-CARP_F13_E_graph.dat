@@ -1,0 +1,69 @@
+ProblemType:	MC-CARP
+NumberNodes:	26
+NumberEdges:	33
+DepotNodeNumber:	8
+NumberOfFractions:	6
+NumberOfIntervalsForFraction	General	1	14
+NumberOfIntervalsForFraction	Organic	1	14
+NumberOfIntervalsForFraction	Plastic	1	14
+NumberOfIntervalsForFraction	Glass	1	14
+NumberOfIntervalsForFraction	Metal	1	14
+NumberOfIntervalsForFraction	Paper	1	14
+GRAPH
+EdgeNumber	EdgeId	StartNodeNumber	EndNodeNumber	Cost	Demand_0	Bins_0
+	Demand_1	Bins_1
+	Demand_2	Bins_2
+	Demand_3	Bins_3
+	Demand_4	Bins_4
+	Demand_5	Bins_5
+START
+0	133	0	1	22	0	0	0	0	0	0	0	0	0	0	0	0
+1	222	2	3	238	24276	23	1122	11	794	9	1870	1	505	7	1581	13
+2	408	4	5	45	0	0	0	0	0	0	0	0	0	0	0	0
+3	414	5	6	77	15108	11	0	0	510	2	0	0	255	1	2040	4
+4	418	7	8	81	14788	26	0	0	1020	4	0	0	510	2	3570	7
+5	419	7	6	18	0	0	0	0	0	0	0	0	0	0	0	0
+6	420	9	3	94	1530	5	0	0	102	1	0	0	102	1	408	2
+7	421	10	11	12	0	0	0	0	0	0	0	0	0	0	0	0
+8	423	8	11	89	0	0	0	0	0	0	0	0	0	0	0	0
+9	424	10	9	94	0	0	0	0	0	0	0	0	0	0	0	0
+10	464	12	13	142	2346	7	714	7	89	3	0	0	59	2	357	7
+11	797	11	12	86	17144	19	0	0	1105	3	0	0	1190	3	2040	4
+12	800	12	14	104	3978	13	918	9	119	4	0	0	119	4	510	10
+13	814	9	13	88	15708	14	0	0	816	5	0	0	425	2	1122	4
+14	842	10	2	79	15606	10	102	1	272	2	0	0	357	2	1275	4
+15	847	15	16	15	0	0	0	0	0	0	0	0	0	0	0	0
+16	848	17	15	64	0	0	0	0	0	0	0	0	0	0	0	0
+17	851	7	17	197	10268	8	102	1	204	2	3740	1	340	2	1071	3
+18	858	8	18	78	612	2	204	2	59	2	0	0	29	1	102	2
+19	859	16	0	8	612	2	204	2	29	1	0	0	29	1	102	2
+20	860	1	15	14	0	0	0	0	0	0	0	0	0	0	0	0
+21	861	18	1	140	18394	18	306	3	425	2	0	0	454	3	2193	7
+22	878	8	19	85	0	0	0	0	0	0	3740	1	0	0	0	0
+23	887	20	21	87	2414	4	306	3	80	2	0	0	80	2	153	3
+24	888	22	5	85	0	0	0	0	0	0	0	0	0	0	0	0
+25	889	4	23	85	2040	2	0	0	0	0	0	0	0	0	0	0
+26	891	24	19	72	15776	10	204	2	824	5	0	0	484	4	4182	6
+27	892	24	7	85	0	0	0	0	0	0	0	0	0	0	0	0
+28	893	6	25	85	0	0	0	0	0	0	0	0	0	0	0	0
+29	894	23	22	44	1156	2	306	3	58	2	0	0	58	2	102	2
+30	897	22	20	74	1020	3	306	3	29	1	0	0	29	1	153	3
+31	898	24	25	18	0	0	0	0	0	0	0	0	0	0	0	0
+32	899	25	20	3	0	0	0	0	0	0	0	0	0	0	0	0
+END					
+-----------------------------------------					
+InputUsedToGenerateTheGraph:					
+County:	Frederiksberg				
+CenterNodeId:	478				
+Radius:	300				
+HouseTypes:	Normal	Summer	Apartment		
+NumberOfWasteFractions: 6					
+IntervalsForWasteFraction:	general	2.3	3.5	7.0	
+IntervalsForWasteFraction:	organic	28.0			
+IntervalsForWasteFraction:	plastic	7.0	14.0	28.0	56.0
+IntervalsForWasteFraction:	glass	7.0	14.0	21.0	28.0
+IntervalsForWasteFraction:	metal	7.0	14.0	28.0	56.0
+IntervalsForWasteFraction:	paper	7.0	14.0	56.0	
+-----------------------------------------					
+
+
